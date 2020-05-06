@@ -6,9 +6,9 @@ class App extends React.Component {
 
     return (
       <div>
-        <Sid name="john" snumber="1410532032" website="https://www.kkbox.com/tw/tc/artist/Tqyk2VnYD3.Md.I0F01bv08J-index-1.html" />
+        <Sid name="溫柔" icon="https://i.kfs.io/album/global/67775917,0v1/fit/300x300.jpg" website="https://www.kkbox.com/tw/tc/album/F415Na9wziArI0F42Yqh009H-index.html" />
 
-        <Sid name="seal" snumber="1410532031" website="https://www.kkbox.com/tw/tc/album/F415Na9wziArI0F42Yqh009H-index.html" />
+        <Sid name="玫瑰少年" icon="https://i.kfs.io/album/global/60046786,2v1/fit/300x300.jpg" website="https://www.kkbox.com/tw/tc/album/MOOX7t-GN-sEq0F3.3r2009H-index.html" />
       </div>
     );
   }

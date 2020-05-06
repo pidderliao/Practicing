@@ -5,11 +5,10 @@ class Sid extends React.Component {
         return (
 
             <div>
-                Hello {this.props.name}
+                專輯: {this.props.name}
                 <br />
-                我的學號:{this.props.snumber}
-                <br />
-                <a href={this.props.website} > Web </a>
+
+                <a href={this.props.website} ><img src={this.props.icon} /></a>
             </div>
         );
     }
